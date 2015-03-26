@@ -1,4 +1,4 @@
-# snipCLIP
+# snpCLIP
 
 SNPCLIP allows investigators to perform filtering on SNP data sets based on a set of statistical calculations. The user can then output the dataset into S.A.G.E. format for further processing. Currently, SNPCLIP allows investigators to filter based on missingness, allele frequency, pairwise linkage disequilibrium, and genome map regions.
 
